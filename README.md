@@ -11,4 +11,6 @@ To install correctly, follow these steps accordingly:
 3. Locate **import library**, then select manage libraries
 4. Press **install** for the designated libraries above
 
-Followingly, install this repository including all source files and data to execute in Processing.
+Followingly, install this repository including all source files and data to execute in Processing. Run from **"Oreo.pde"** to play the game.
+
+Additionally, here is a [game demo](https://youtu.be/bssh6jT6JBE): 
