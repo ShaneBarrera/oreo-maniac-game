@@ -13,4 +13,4 @@ To install correctly, follow these steps accordingly:
 
 Followingly, install this repository including all source files and data to execute in Processing. Run from **"Oreo.pde"** to play the game.
 
-Additionally, here is a [game demo](https://youtu.be/bssh6jT6JBE): 
+Additionally, here is a [game demo](https://youtu.be/bssh6jT6JBE) video.
