@@ -10,3 +10,5 @@ To install correctly, follow these steps accordingly:
 2. Open Processing and locate the **sketch** menu on the top of the program
 3. Locate **import library**, then select manage libraries
 4. Press **install** for the designated libraries above
+
+Followingly, install this repository including all source files and data to execute in Processing.
