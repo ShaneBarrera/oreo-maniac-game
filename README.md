@@ -9,9 +9,9 @@ Before running, you must install [Processing 4.0](https://processing.org/downloa
 
 To install correctly, follow these steps accordingly:
 1. Install [Processing 4.0](https://processing.org/download) and the following libraries to execute game files:
-2. Open Processing and locate the <sub>sketch</sub> menu on the top of the program
-3. Locate <sub>import library</sub>, then select manage libraries
-4. Press <sub>install</sub> for the designated libraries above
+2. Open Processing and locate the 'sketch' menu on the top of the program
+3. Locate 'import library', then select manage libraries
+4. Press 'install' for the designated libraries above
 
 Followingly, install this repository including all source files and data to execute in Processing. Run from **"Oreo.pde"** to play the game.
 
