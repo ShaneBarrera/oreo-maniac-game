@@ -1,5 +1,5 @@
 # oreoManiacGame
-Oreo Maniac is a 2D-based interactive shooting game where an unnamed main character must defeat various shooting enemies, navigate different environments, and defeat a final boss to retrieve an abundance of Oreos. Written in Java using Processing. Read [User Manual](https://github.com/ShaneBarrera/oreoManiacGame/blob/main/Documents/User_Manual.pdf) for instructions to install and properly execute.
+Oreo Maniac is a 2D-based interactive shooting game where an unnamed main character must defeat various shooting enemies, navigate different environments, and defeat a final boss to retrieve an abundance of Oreos. Written in Java using Processing 4.0. Read [User Manual](https://github.com/ShaneBarrera/oreoManiacGame/blob/main/Documents/User_Manual.pdf) for instructions to install and properly execute.
 
 ![Image of game](OreoManiac/data/thumbnail.png)
 # Setup
