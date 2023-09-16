@@ -1,4 +1,4 @@
-# oreoManiacGame
+# oreo-maniac-game
 2D-based interactive shooting game where you defeat enemies to retrieve an abundance of Oreos! Written in Java using Processing 4.0. Read [User Manual](https://github.com/ShaneBarrera/oreoManiacGame/blob/main/Documents/User_Manual.pdf) for instructions to install and properly execute.
 
 ![Image of game](OreoManiac/data/thumbnail.png)
